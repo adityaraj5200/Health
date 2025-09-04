@@ -8,6 +8,7 @@
 |    6 | **Chicken breast (raw)**           |               31 |             23 |          **0.74** |
 |    7 | **Eggs (whole)**                   |               13 |             12 |          **0.92** |
 |    8 | **Fish (Rohu/Katla)**              |               20 |             22 |          **1.10** |
-|    9 | **Oats (rolled)**                  |               13 |             20 |          **1.54** |
-|   10 | **Whey protein** (per scoop, 30 g) |     \~23 / scoop |    ₹45 / scoop |          **1.96** |
-|   11 | **Paneer**                         |               18 |             38 |          **2.11** |
+|    9 | **Amul Curd**                      |                4 |              5 |          **1.25** |
+|   10 | **Oats (rolled)**                  |               13 |             20 |          **1.54** |
+|   11 | **Whey protein** (per scoop, 30 g) |     \~23 / scoop |    ₹45 / scoop |          **1.96** |
+|   12 | **Paneer**                         |               18 |             38 |          **2.11** |
